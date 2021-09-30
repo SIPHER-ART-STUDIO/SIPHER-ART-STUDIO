@@ -1,5 +1,5 @@
 - 👋 Hi, We are @SIPHER-ART-STUDIO a new game art studio
-- 👀 We're interested in making new type and best interactive games with realistic user and ai interface 
+- 👀 We're interested in making new type rpg and best interactive games with realistic user and ai interface 
 - 🌱 We're currently working on a 3d choice based rpg story type game with cool fight simulations 
 - 💞️ We're looking to collaborate on steam once our game is made, but it will take some months
 - 📫 How to reach us -- U cant, let us create something first then u can reach us
